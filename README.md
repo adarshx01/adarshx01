@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Adarsh Vishwakarma</h1>
-<h3 align="center">A passionate ML and Web Dev from India</h3>
+<h3 align="center">AI-first Developer and Freelancer building scalable web systems & automations platforms.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshx01&label=Profile%20views&color=0e75b6&style=flat" alt="adarshx01" /> </p>
 
@@ -26,29 +26,29 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Gitfted Books (An AI based Book selling and Education Platform)](<link to be hosted>)
 
-- 🌱 I’m currently learning **Machine Learning, Data Science, Kotlin**
+- 🌱 I’m currently learning **Deep Learning,Scalable Backend System using Spring Boot , System Design, Cloud Infrastructure, and Agentic AI Systems**
 
 - 👯 I’m looking to collaborate on [eVillage](<Link to be hosted>)
 
 - 🤝 I’m looking for help with [eVillage](<Coming UP>)
 
-- 👨‍💻 All of my projects are available at [adarshx01.vercel.app](adarshx01.vercel.app)
+- 👨‍💻 All of my projects are available at [techorb.wiki](techorb.wiki)
 
 - 📝 I regularly write articles on [<Link yet to be updated>](<Link yet to be updated>)
 
-- 💬 Ask me about **react js, next js , javascript , c++ , tensorflow js, machine learning inf**
+- 💬 Ask me about **react js, next js , javascript , c++ , tensorflow js, machine learning inf , , Gen AI, YOLOv9, CV**
 
 - 📫 How to reach me **vish.adarsh01@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1g0gPPwunsMac9GbCeMymX-tdLjmn5l9O/view?usp=sharing](https://drive.google.com/file/d/1g0gPPwunsMac9GbCeMymX-tdLjmn5l9O/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1g0gPPwunsMac9GbCeMymX-tdLjmn5l9O/view?usp=sharing](techorb.wiki)
 
-- ⚡ Fun fact **Ping me to hack someone's IG**
+- ⚡ Fun fact **I have more unfinished projects and i don't remember most of them!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/adarshx01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adarshx01" height="30" width="40" /></a>
 <a href="https://twitter.com/techorbin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="techorbin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://in.linkedin.com/in/adarshx01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/adarshx01" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adarshx01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/adarshx01" height="30" width="40" /></a>
 <a href="https://instagram.com/techorb.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="techorb.in" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/techorb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techorb" height="30" width="40" /></a>
 </p>
